@@ -1,0 +1,200 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "MacBook Pro 16-inch",
+        "product_url": "https://i.ibb.co.com/mHfV6R9/images-14-cwd2.jpg",
+        "category": "MacBook",
+        "price": "2499",
+        "description": "High-performance laptop with M2 Max chip and Retina display.",
+        "specification": ["16-inch Retina display", "M2 Max", "1TB SSD", "16GB RAM"],
+        "availability": "In Stock",
+        "rating": 4.9
+    },
+    {
+        "product_id": 2,
+        "product_title": "MacBook Air 13-inch",
+        "product_url": "https://i.ibb.co.com/Sx2wN2F/csm-IMG-1351-19920cc2c9.jpg",
+        "category": "MacBook",
+        "price": "1199",
+        "description": "Lightweight and portable MacBook with M2 chip.",
+        "specification": ["13-inch Retina display", "M2 chip", "256GB SSD", "8GB RAM"],
+        "availability": "In Stock",
+        "rating": 4.7
+    },
+    {
+        "product_id": 3,
+        "product_title": "iPhone 14 Pro",
+        "product_url": "https://i.ibb.co.com/MhqSZXn/i-Phone-silicone-case-Blue-Jay-Custom-Mac-BD.webp",
+        "category": "iPhone",
+        "price": "999",
+        "description": "iPhone with pro-level features and excellent camera.",
+        "specification": ["6.1-inch display", "A16 Bionic chip", "128GB storage", "Triple camera"],
+        "availability": "In Stock",
+        "rating": 4.8
+    },
+    {
+        "product_id": 4,
+        "product_title": "iPhone SE",
+        "product_url": "https://i.ibb.co.com/pnwZyY3/D-Q-NP-912227-MLA71782903150-092023-O.webp",
+        "category": "iPhone",
+        "price": "429",
+        "description": "Compact iPhone with powerful performance.",
+        "specification": ["4.7-inch display", "A15 Bionic chip", "64GB storage"],
+        "availability": "In Stock",
+        "rating": 4.5
+    },
+    {
+        "product_id": 5,
+        "product_title": "Samsung Galaxy S23",
+        "product_url": "https://i.ibb.co.com/FXfJPs7/how-to-extend-the-lifespan-of-your-android-phone.jpg",
+        "category": "Phones",
+        "price": "799",
+        "description": "Flagship phone with excellent camera and performance.",
+        "specification": ["6.1-inch display", "Snapdragon 8 Gen 2", "128GB storage", "Triple camera"],
+        "availability": "In Stock",
+        "rating": 4.7
+    },
+    {
+        "product_id": 6,
+        "product_title": "Google Pixel 7",
+        "product_url": "https://i.ibb.co.com/Dgr2JCp/samsung-galaxy-s24-family-gazr.jpg",
+        "category": "Phones",
+        "price": "599",
+        "description": "Google's latest phone with excellent camera quality.",
+        "specification": ["6.3-inch display", "Google Tensor G2", "128GB storage", "50MP camera"],
+        "availability": "In Stock",
+        "rating": 4.6
+    },
+    {
+        "product_id": 7,
+        "product_title": "OnePlus 11",
+        "product_url": "https://i.ibb.co.com/s5MmnB6/Samsung-Galaxy-S24-20240319-183738-full.jpg",
+        "category": "Phones",
+        "price": "699",
+        "description": "Smooth and fast phone with powerful chipset.",
+        "specification": ["6.7-inch display", "Snapdragon 8 Gen 2", "256GB storage"],
+        "availability": "In Stock",
+        "rating": 4.5
+    },
+    {
+        "product_id": 8,
+        "product_title": "Dell XPS 13",
+        "product_url": "https://i.ibb.co.com/CvRkGKx/surface-laptop-16-9.jpg",
+        "category": "Laptops",
+        "price": "1299",
+        "description": "Compact, high-performance laptop with stunning display.",
+        "specification": ["13.4-inch display", "Intel i7", "512GB SSD", "16GB RAM"],
+        "availability": "In Stock",
+        "rating": 4.7
+    },
+    {
+        "product_id": 9,
+        "product_title": "Lenovo ThinkPad X1",
+        "product_url": "https://i.ibb.co.com/RCtJjFp/3kcg-KLkf-PRbskps-Yz-W239d.jpg",
+        "category": "Laptops",
+        "price": "1499",
+        "description": "Business laptop with powerful security features.",
+        "specification": ["14-inch display", "Intel i7", "1TB SSD", "16GB RAM"],
+        "availability": "In Stock",
+        "rating": 4.8
+    },
+    {
+        "product_id": 10,
+        "product_title": "ASUS ROG Zephyrus",
+        "product_url": "https://i.ibb.co.com/rF86LXH/hp-elitebook-mobile.jpg",
+        "category": "Laptops",
+        "price": "1599",
+        "description": "Gaming laptop with advanced cooling and performance.",
+        "specification": ["15.6-inch QHD", "AMD Ryzen 9", "1TB SSD", "32GB RAM"],
+        "availability": "In Stock",
+        "rating": 4.6
+    },
+    {
+        "product_id": 11,
+        "product_title": "Apple Watch Series 9",
+        "product_url": "https://i.ibb.co.com/G3SfR2H/0037408-xtra-active-r16-139-bt-calling-smart-watch-600.png",
+        "category": "SmartWatch",
+        "price": "399",
+        "description": "Health-focused smartwatch with seamless iPhone integration.",
+        "specification": ["44mm case", "Blood oxygen sensor", "Always-on Retina display"],
+        "availability": "In Stock",
+        "rating": 4.8
+    },
+    {
+        "product_id": 12,
+        "product_title": "Samsung Galaxy Watch 6",
+        "product_url": "https://i.ibb.co.com/zGLyPgV/dda6bc1f-d282-4cf9-ad29-e827222bc4d5-8d402328f4d54e2b9a252879ec51fb79.webp",
+        "category": "SmartWatch",
+        "price": "349",
+        "description": "Smartwatch with LTE and heart rate monitoring.",
+        "specification": ["40mm case", "Blood pressure monitor", "AMOLED display"],
+        "availability": "In Stock",
+        "rating": 4.7
+    },
+    {
+        "product_id": 13,
+        "product_title": "Fitbit Versa 3",
+        "product_url": "https://i.ibb.co.com/zGLyPgV/dda6bc1f-d282-4cf9-ad29-e827222bc4d5-8d402328f4d54e2b9a252879ec51fb79.webp",
+        "category": "SmartWatch",
+        "price": "199",
+        "description": "Smartwatch with activity and sleep tracking.",
+        "specification": ["1.6-inch display", "Heart rate monitoring", "Sleep tracking"],
+        "availability": "In Stock",
+        "rating": 4.4
+    },
+    {
+        "product_id": 14,
+        "product_title": "AirPods Pro",
+        "product_url": "https://i.ibb.co.com/vJcQXZJ/depositphotos-692203096-stock-photo-set-stylish-female-accessories-leather.webp",
+        "category": "Accessories",
+        "price": "249",
+        "description": "Wireless earbuds with noise-cancellation and immersive sound.",
+        "specification": ["In-ear", "Noise cancellation", "Adaptive EQ", "24-hour battery life"],
+        "availability": "In Stock",
+        "rating": 4.8
+    },
+    {
+        "product_id": 15,
+        "product_title": "Sony WH-1000XM5",
+        "product_url": "https://i.ibb.co.com/1GbFjKx/depositphotos-240069186-stock-photo-stylish-male-accessories-wooden-table.webp",
+        "category": "Accessories",
+        "price": "349",
+        "description": "Industry-leading noise-canceling headphones.",
+        "specification": ["Over-ear", "Bluetooth", "30-hour battery", "Noise cancellation"],
+        "availability": "In Stock",
+        "rating": 4.9
+    },
+    {
+        "product_id": 16,
+        "product_title": "Samsung Galaxy Buds2 Pro",
+        "product_url": "https://i.ibb.co.com/CHpZF9X/fashionable-male-female-accessories-on-600nw-2008428230.webp",
+        "category": "Accessories",
+        "price": "229",
+        "description": " True wireless earbuds with premium sound.",
+        "specification": ["In-ear", "Noise cancellation", "24-hour battery life"],
+        "availability": "In Stock",
+        "rating": 4.6
+    },
+    {
+        "product_id": 17,
+        "product_title": "HP Envy 15",
+        "product_url": "https://i.ibb.co.com/MDWcJVT/testing-the-legion-7i-pro-for-a-non-pc-enthusiast-friend-v0-i52q6j6u8m6b1.webp",
+        "category": "Laptops",
+        "price": "1099",
+        "description": "Powerful laptop with great display and battery life.",
+        "specification": ["15.6-inch FHD", "Intel i7", "512GB SSD", "16GB RAM"],
+        "availability": "In Stock",
+        "rating": 4.5
+    },
+    {
+        "product_id": 18,
+        "product_title": "JBL Flip 6",
+        "product_url": "https://i.ibb.co.com/wz3qD68/www-madebyvadim-com.jpg",
+        "category": "Accessories",
+        "price": "129",
+        "description": "Portable Bluetooth speaker with powerful sound.",
+        "specification": ["Portable", "Waterproof", "12-hour battery life"],
+        "availability": "In Stock",
+        "rating": 4.7
+    }
+]
